@@ -1,0 +1,22 @@
+.odd {
+    background-color: lightcoral;
+    font-family: sans-serif;
+}
+
+.even {
+    font-family: serif;
+}
+
+.medium {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
